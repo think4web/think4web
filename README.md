@@ -1,4 +1,4 @@
-### For fun
+## For fun
 
 I'm not a programmer, I just love Linux and OpenSource. I use GitHab to store my files and organize my notes in the blog. 
 
