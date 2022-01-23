@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Pull in think4web.github.io posts
+        uses: think4web/blog-post-workflow@master
         with:
           feed_list: "https://think4web.github.io/feed.xml"
