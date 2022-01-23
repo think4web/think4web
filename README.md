@@ -33,5 +33,5 @@ I'm not a programmer, I just love Linux and OpenSource. I use GitHab to store my
 - [Конспект по GnuPG](https://think4web.github.io/Konspekt-po-GnuPG/)
 - [Створення завантажувальної флешки з Tails OS](https://think4web.github.io/Stvorennya-zavantazhuvalnoyi-fleshky-z-Tails/)
 - [Захист приватної інформації на смартфоні](https://think4web.github.io/Zakhyst-pryvatnoyi-informatsiyi-na-smartfoni/)
-- [Calyx OS](https://think4web.github.io/Calyx/)
+- [Скрипт для захисту себе від комп’ютера](https://think4web.github.io/Skrypt-dlya-zakhystu-sebe-vid-kompyutera/)
 <!-- BLOG-POST-LIST:END -->
