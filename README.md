@@ -26,3 +26,7 @@ I'm not a programmer, I just love Linux and OpenSource. I use GitHab to store my
   <a href = "mailto:efxice9c@anonaddy.me"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://think4web.github.io" target="_blank"><img src="https://img.shields.io/badge/-Blog-222222?style=for-the-badge&logo=githubpages&logoColor=grey" target="_blank"></a>
 </div>
+  
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
