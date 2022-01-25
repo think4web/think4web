@@ -30,8 +30,8 @@ I'm not a programmer, I just love Linux and OpenSource. I use GitHab to store my
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Zettelkasten - система зберігання та організації знань](https://think4web.github.io/Zettelkasten/)
+- [scribe.rip - читати medium.com без реєстрації](https://think4web.github.io/scrible.rip/)
 - [Набір мінімалістичних програм що працюють у терміналі](https://think4web.github.io/suckless-software/)
 - [Налаштування GnuPG для GitHub](https://think4web.github.io/Nalashtuvannya-GnuPG-dlya-Git/)
 - [Конспект по GnuPG](https://think4web.github.io/Konspekt-po-GnuPG/)
-- [Створення завантажувальної флешки з Tails OS](https://think4web.github.io/Stvorennya-zavantazhuvalnoyi-fleshky-z-Tails/)
 <!-- BLOG-POST-LIST:END -->
