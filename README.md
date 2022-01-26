@@ -32,6 +32,6 @@ I'm not a programmer, I just love Linux and OpenSource. I use GitHab to store my
 - [Hugo - генератор статичних сайтів](https://think4web.github.io/Hugo/)
 - [Zettelkasten - система зберігання та організації знань](https://think4web.github.io/Zettelkasten/)
 - [scribe.rip - читати medium.com без реєстрації](https://think4web.github.io/scrible.rip/)
+- [Vimium - керування браузером у стилі Vim](https://think4web.github.io/Vimium/)
 - [Набір мінімалістичних програм що працюють у терміналі](https://think4web.github.io/suckless-software/)
-- [Налаштування GnuPG для GitHub](https://think4web.github.io/Nalashtuvannya-GnuPG-dlya-Git/)
 <!-- BLOG-POST-LIST:END -->
