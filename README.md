@@ -29,9 +29,9 @@ I'm not a programmer, I just love Linux and OpenSource. I use GitHab to store my
   
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Плагіни для Vim](https://think4web.github.io/Plahiny-dlya-Vim/)
+- [Як вивчити Vim за 4 тижня](https://think4web.github.io/Yak-vyvchyty-Vim-za-4-tyzhnya/)
 - [Hugo - генератор статичних сайтів](https://think4web.github.io/Hugo/)
 - [Zettelkasten - система зберігання та організації знань](https://think4web.github.io/Zettelkasten/)
 - [scribe.rip - читати medium.com без реєстрації](https://think4web.github.io/scrible.rip/)
-- [Vimium - керування браузером у стилі Vim](https://think4web.github.io/Vimium/)
-- [Zettelkasten для блогу на Jekyll](https://think4web.github.io/Zettelkasten-dlya-blohu-na-Jekyll/)
 <!-- BLOG-POST-LIST:END -->
