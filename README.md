@@ -33,5 +33,5 @@ I'm not a programmer, I just love Linux and OpenSource. I use GitHab to store my
 - [Zettelkasten - система зберігання та організації знань](https://think4web.github.io/Zettelkasten/)
 - [scribe.rip - читати medium.com без реєстрації](https://think4web.github.io/scrible.rip/)
 - [Vimium - керування браузером у стилі Vim](https://think4web.github.io/Vimium/)
-- [Набір мінімалістичних програм що працюють у терміналі](https://think4web.github.io/suckless-software/)
+- [Zettelkasten для блогу на Jekyll](https://think4web.github.io/Zettelkasten-dlya-blohu-na-Jekyll/)
 <!-- BLOG-POST-LIST:END -->
